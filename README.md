@@ -38,19 +38,23 @@
     - バージョン5.5 から 6.0 まで段階的にupgrade
     - PHPUnitによるFeatureとUnitテストを実装
 - Python
+  - AWS Lambda におけるバッチ処理作成
+  - AWS API Gateway + AWS Lambda にて、REST API のendpoint作成
   - scikit-learn
     - 機械学習（教師あり学習）
     - データ取得、特徴量作成、モデル作成、予想結果出力を自動で行うシステムを独自に構築
   - スクレイピングしてSlack通知アプリ作成
+- Ruby
+  - Ruby on Rails
+    - バージョン5.2
+    - RSpecによるテスト実装
 - Java
   - SpringBoot
   - Java EE
     - バージョン6と7。特に6では、古い独自フレームワークからJavaEE6への移行を担当した
   - Seaser2
-- Ruby
-  - Ruby on Rails
-    - バージョン5.2
-    - RSpecによるテスト実装
+- Scala
+  - 
 
 ### フロントエンド
 
@@ -67,6 +71,8 @@
 - AWS
   - EC2, RDS, ALB, Route 53 を用いて、Multi-AZ構成でWebシステムを配置
   - Amazon ECS を用いて、Dockerコンテナ化されたLaravelのWebアプリをサーバーレスで配置
+  - AWS API Gateway + AWS Lambda にて、REST API のendpoint作成
+  - AWS CloudFormation や AWS SAM CLI を使用したインフラ構築やデプロイ
 - UML
   - エンドユーザーの要求分析、要件定義、またシステムのアーキテクチャ設計にUMLを活用
 
@@ -83,17 +89,25 @@
 
 ## 職務経歴(詳細)
 
-### 2020/04 - 現在 : 株式会社Everforth
+### 2020/04 - 現在: 株式会社Everforth
 
 職務: ITアーキテクト
 
 2020/04より週2日で勤務
 
-### 2017/10 - 現在 : 株式会社アクシア
+#### 自社サービス開発
+
+ECサイトのバックエンドを担当
+
+- AWS Lambda におけるバッチ処理作成 (Python, Scala)
+- AWS API Gateway + AWS Lambda にて、REST API のendpoint作成
+- Scala にて、Webアプリケーションのバックエンド開発
+
+### 2017/10 - 2020/09: 株式会社アクシア
 
 職務: Webアプリケーションエンジニア、ITアーキテクト、業務改善
 
-2020/04より週3日で勤務
+2020/04 - 2020/09 の期間は週3日で勤務
 
 #### 自社サービス開発
 
