@@ -2,18 +2,18 @@
 
 ## 氏名
 
-|key|value|
-|---|-----|
-|Name|戸田 康隆 (Yasutaka Toda)|
-|GitHub| https://github.com/ystktoda/ |
+| key    | value                        |
+| ------ | ---------------------------- |
+| Name   | 戸田 康隆 (Yasutaka Toda)    |
+| GitHub | https://github.com/ystktoda/ |
 
 ## 職務経歴（概要）
 
 ### ソフトウェア開発
 
-- Webアプリケーション開発
-  - PHP、Java、Ruby あわせて10年以上
-  - 6年以上、アーキテクトとして、新規システム構築やシステム更改のアーキテクチャ設計・構築
+- Web アプリケーション開発
+  - PHP、Java、Ruby あわせて 10 年以上
+  - 6 年以上、アーキテクトとして、新規システム構築やシステム更改のアーキテクチャ設計・構築
 
 ### 発注者支援
 
@@ -25,7 +25,7 @@
 ### 社内業務改善
 
 - 開発標準の更新
-  - 最新のフレームワークへ乗り換え、CI導入、テストコード作成推進、ローカル開発環境のDocker化、など
+  - 最新のフレームワークへ乗り換え、CI 導入、テストコード作成推進、ローカル開発環境の Docker 化、など
 - 社内システムの改善
 
 ## スキル
@@ -35,46 +35,46 @@
 - PHP
   - Laravel
     - アーキテクトとして新規構築から担当
-    - バージョン5.5 から 6.0 まで段階的にupgrade
-    - PHPUnitによるFeatureとUnitテストを実装
+    - バージョン 5.5 から 6.0 まで段階的に upgrade
+    - PHPUnit による Feature と Unit テストを実装
 - Python
   - AWS Lambda におけるバッチ処理作成
-  - AWS API Gateway + AWS Lambda にて、REST API のendpoint作成
+  - AWS API Gateway + AWS Lambda にて、REST API の endpoint 作成
   - scikit-learn
     - 機械学習（教師あり学習）
     - データ取得、特徴量作成、モデル作成、予想結果出力を自動で行うシステムを独自に構築
-  - スクレイピングしてSlack通知アプリ作成
+  - スクレイピングして Slack 通知アプリ作成
 - Ruby
   - Ruby on Rails
-    - バージョン5.2
-    - RSpecによるテスト実装
+    - バージョン 5.2
+    - RSpec によるテスト実装
 - Java
   - SpringBoot
   - Java EE
-    - バージョン6と7。特に6では、古い独自フレームワークからJavaEE6への移行を担当した
+    - バージョン 6 と 7。特に 6 では、古い独自フレームワークから JavaEE6 への移行を担当した
   - Seaser2
 - Scala
-  - 
+  -
 
 ### フロントエンド
 
 - Vue.js
-  - Vue.js + Laravel のSPAの設計・開発
+  - Vue.js + Laravel の SPA の設計・開発
 - Backbone.js
-  - Backbone.js(Marionette.js) + CakePHP のSPAの開発
+  - Backbone.js(Marionette.js) + CakePHP の SPA の開発
 
 ### その他
 
 - Docker
-  - LaravelやRuby on Rails のローカル開発環境をDockerに移行
-  - 本番環境用Dockerコンテナ作成
+  - Laravel や Ruby on Rails のローカル開発環境を Docker に移行
+  - 本番環境用 Docker コンテナ作成
 - AWS
-  - EC2, RDS, ALB, Route 53 を用いて、Multi-AZ構成でWebシステムを配置
-  - Amazon ECS を用いて、Dockerコンテナ化されたLaravelのWebアプリをサーバーレスで配置
-  - AWS API Gateway + AWS Lambda にて、REST API のendpoint作成
+  - EC2, RDS, ALB, Route 53 を用いて、Multi-AZ 構成で Web システムを配置
+  - Amazon ECS を用いて、Docker コンテナ化された Laravel の Web アプリをサーバーレスで配置
+  - AWS API Gateway + AWS Lambda にて、REST API の endpoint 作成
   - AWS CloudFormation や AWS SAM CLI を使用したインフラ構築やデプロイ
 - UML
-  - エンドユーザーの要求分析、要件定義、またシステムのアーキテクチャ設計にUMLを活用
+  - エンドユーザーの要求分析、要件定義、またシステムのアーキテクチャ設計に UML を活用
 
 ## 強み
 
@@ -84,37 +84,37 @@
 
 ## やったことはないが興味があるもの
 
-- 脳とITの連携（ニューロフィードバックなど）
-- 農業とITの連携
+- 脳と IT の連携（ニューロフィードバックなど）
+- 農業と IT の連携
 
 ## 職務経歴(詳細)
 
-### 2020/04 - 現在: 株式会社Everforth
+### 2020/04 - 現在: 株式会社 Everforth
 
-職務: ITアーキテクト
+職務: IT アーキテクト
 
-2020/04より週2日で勤務
+2020/04 より週 2 日で勤務
 
 #### 自社サービス開発
 
-ECサイトのバックエンドを担当
+EC サイトのバックエンドを担当
 
 - AWS Lambda におけるバッチ処理作成 (Python, Scala)
-- AWS API Gateway + AWS Lambda にて、REST API のendpoint作成
-- Scala にて、Webアプリケーションのバックエンド開発
+- AWS API Gateway + AWS Lambda にて、REST API の endpoint 作成
+- Scala にて、Web アプリケーションのバックエンド開発
 
 ### 2017/10 - 2020/09: 株式会社アクシア
 
-職務: Webアプリケーションエンジニア、ITアーキテクト、業務改善
+職務: Web アプリケーションエンジニア、IT アーキテクト、業務改善
 
-2020/04 - 2020/09 の期間は週3日で勤務
+2020/04 - 2020/09 の期間は週 3 日で勤務
 
 #### 自社サービス開発
 
-プロダクトのリーダーとて、BtoBの自社サービスを設計、開発、運用している。
+プロダクトのリーダーとて、BtoB の自社サービスを設計、開発、運用している。
 
-- Vue.js + Laravel のSPAにて構築
-- Amazon ECS を用いて、Dockerコンテナ化されたLaravelのWebアプリをサーバーレスで配置
+- Vue.js + Laravel の SPA にて構築
+- Amazon ECS を用いて、Docker コンテナ化された Laravel の Web アプリをサーバーレスで配置
 - AWS CLI にて、本番環境リリースの簡略化
 
 #### 業務改善
@@ -122,16 +122,16 @@ ECサイトのバックエンドを担当
 社内の業務の品質や効率を上げるための活動を継続的に行っている。
 
 - 開発標準の更新
-  - 最新のフレームワークへ乗り換え、CI導入、テストコード作成推進、ローカル開発環境のDocker化、など
+  - 最新のフレームワークへ乗り換え、CI 導入、テストコード作成推進、ローカル開発環境の Docker 化、など
 - 自社システムをアジャイル開発にて改善
-- コミュニケーションツールとしてslackを導入
-- 社内の知識共有のため、[Growi](https://docs.growi.org/ja/)を用いた社内wikiを構築
-- 睡眠不足による生産性の低下を可視化するWebサイト構築 : [生産性睡眠グラフ](https://sleep.axia.co.jp/) (https://sleep.axia.co.jp/)
+- コミュニケーションツールとして slack を導入
+- 社内の知識共有のため、[Growi](https://docs.growi.org/ja/)を用いた社内 wiki を構築
+- 睡眠不足による生産性の低下を可視化する Web サイト構築 : [生産性睡眠グラフ](https://sleep.axia.co.jp/) (https://sleep.axia.co.jp/)
   - 参考: [睡眠時間を削ると人間はバカになる](https://axia.co.jp/2018-07-30) (https://axia.co.jp/2018-07-30)
 
 #### 受託開発
 
-PHP, Java, Rubyにて、様々なお客様のWebアプリケーションの受託開発を行っている。
+PHP, Java, Ruby にて、様々なお客様の Web アプリケーションの受託開発を行っている。
 
 - インフラを含めたシステム基盤から構築
 - 新規システムの構築や、他社が開発したシステムを引き継いで改修もある
@@ -140,7 +140,7 @@ PHP, Java, Rubyにて、様々なお客様のWebアプリケーションの受�
 
 ### 2015/10 - 2017/10: ピースミール・テクノロジー株式会社
 
-職務: ITアーキテクト（発注者支援として活動）
+職務: IT アーキテクト（発注者支援として活動）
 
 #### 農業/営農支援システム開発
 
@@ -153,34 +153,34 @@ PHP, Java, Rubyにて、様々なお客様のWebアプリケーションの受�
 
 使い勝手が悪く、半分以上機能が使用されていない業務基幹システムを、限られた期間と予算の中で、最低限使えるように改善する。
 
-- 顧客のシステム課の支援として、要件定義（AsIsとToBeの定義）
+- 顧客のシステム課の支援として、要件定義（AsIs と ToBe の定義）
 - 基本設計、進捗管理、総合テスト支援
 
-### 2009/04 - 2015/09: 株式会社北海道CSK
+### 2009/04 - 2015/09: 株式会社北海道 CSK
 
-職務: Webアプリケーションエンジニア、ITアーキテクト
+職務: Web アプリケーションエンジニア、IT アーキテクト
 
 #### 流通小売業/基幹システムの再構築
 
-基幹システムの再構築プロジェクト。フレームワーク刷新や各種HW,MWのバージョンアップ、入替など
+基幹システムの再構築プロジェクト。フレームワーク刷新や各種 HW,MW のバージョンアップ、入替など
 
 - アーキテクトチームリーダー
-- 独自Javaフレームワークから、JavaEE6 (WebSphere) への移行。設計から実装・リリースまで担当
+- 独自 Java フレームワークから、JavaEE6 (WebSphere) への移行。設計から実装・リリースまで担当
 - SOA (WebSphere) を用いて、サービス間を連携。
 
-#### アパレル/ECサイト新規構築
+#### アパレル/EC サイト新規構築
 
-アパレルのECサイトパッケージのアドオン開発。デザイナーが作成したデザインを用いたUI開発や、クレジットカード決済用のRestful WebServiceの開発。
+アパレルの EC サイトパッケージのアドオン開発。デザイナーが作成したデザインを用いた UI 開発や、クレジットカード決済用の Restful WebService の開発。
 
 - プロジェクトリーダー
 - Java / Oracle DB
-- クレジットカード決済用のRestful WebServiceのアーキテクチャ設計・開発
+- クレジットカード決済用の Restful WebService のアーキテクチャ設計・開発
 
 ### 2007/04 - 2009/03: 株式会社日本総合研究所
 
-職務: Webアプリケーションエンジニア
+職務: Web アプリケーションエンジニア
 
-#### クレジットカードWebサイト保守開発
+#### クレジットカード Web サイト保守開発
 
 - 設計・開発・テスト担当
 - Java / Oracle DB
@@ -189,7 +189,7 @@ PHP, Java, Rubyにて、様々なお客様のWebアプリケーションの受�
 
 ### 機械学習を用いた競馬予想アプリ開発
 
-機械学習(scikit-learn)を用いて、JRAの馬券買い目を予想するアプリケーションを独自に開発。
+機械学習(scikit-learn)を用いて、JRA の馬券買い目を予想するアプリケーションを独自に開発。
 
 - 参考
   - https://github.com/ystktoda/prediction-jra-horseracing
